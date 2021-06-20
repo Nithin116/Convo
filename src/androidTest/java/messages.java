@@ -1,0 +1,2 @@
+public class messages {
+}
